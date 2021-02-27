@@ -1,3 +1,5 @@
+
+
 Description
 This application generates a random password based on user-selected criteria.
 
@@ -18,7 +20,8 @@ THEN a password is generated that matches the selected criteria<br>
 WHEN the password is generated<br>
 THEN the password is written to the page.<br>
 
-![alt text](screenshots "photo of app")
+
+
 
 Repository link
 
