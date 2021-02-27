@@ -20,6 +20,7 @@ THEN a password is generated that matches the selected criteria<br>
 WHEN the password is generated<br>
 THEN the password is written to the page.<br>
 
+![](https://user-images.githubusercontent.com/77138194/109370885-dc6c9400-7867-11eb-983c-3ed81066dabd.png)
 
 
 
