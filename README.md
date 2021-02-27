@@ -18,7 +18,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is written to the page.
 
-![alt text](screenshot.png "photo of app")
+![alt text](screenshots "photo of app")
 
 Repository link
 
